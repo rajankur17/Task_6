@@ -1,0 +1,281 @@
+"year","yearlyrevenue","yearlyvolume","yearlycustomercount","month","region","category","subcategory","monthlyrevenue","monthlyvolume","topproduct","topproductrevenue","secondtopproduct","secondtopproductrevenue","topcustomer","topcustomerspend","secondtopcustomer","secondtopcustomerspend"
+2023,153831.54,104,97,1,"East","Furniture","Bookcases",924.42,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,1,"Central","Technology","Phones",843.68,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,1,"Central","Office Supplies","Storage",1396.86,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,1,"East","Office Supplies","Storage",478.74,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,1,"East","Office Supplies","Binders",335.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,2,"East","Office Supplies","Binders",2660.14,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,2,"West","Office Supplies","Storage",3237.85,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,2,"West","Office Supplies","Binders",1928.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,2,"South","Technology","Copiers",309.64,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,2,"West","Technology","Machines",1132.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,2,"South","Office Supplies","Labels",4783.00,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"East","Furniture","Chairs",780.04,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"East","Furniture","Furnishings",686.00,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"East","Office Supplies","Labels",1488.32,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"South","Technology","Accessories",921.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"Central","Furniture","Chairs",3568.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"South","Technology","Phones",994.30,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"West","Furniture","Furnishings",4609.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"West","Office Supplies","Binders",3722.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"West","Technology","Accessories",1410.57,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,3,"West","Technology","Machines",176.46,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,4,"West","Technology","Accessories",1387.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,4,"Central","Office Supplies","Paper",728.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,4,"Central","Technology","Accessories",305.88,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,4,"East","Furniture","Chairs",1900.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,4,"East","Furniture","Furnishings",1215.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,4,"East","Technology","Copiers",3016.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,5,"South","Office Supplies","Binders",943.02,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,5,"South","Technology","Copiers",1146.04,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,5,"South","Furniture","Furnishings",1918.00,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,5,"East","Technology","Copiers",169.29,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"West","Office Supplies","Labels",665.82,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"Central","Furniture","Bookcases",744.21,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"East","Office Supplies","Storage",2308.74,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"South","Office Supplies","Paper",714.75,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"South","Technology","Machines",688.24,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"West","Furniture","Bookcases",707.48,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"West","Technology","Machines",264.14,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,6,"West","Technology","Copiers",2983.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"West","Office Supplies","Storage",2989.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"West","Office Supplies","Labels",149.17,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"West","Furniture","Tables",3219.57,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"South","Technology","Machines",139.37,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"South","Office Supplies","Storage",2357.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"South","Office Supplies","Paper",600.33,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"East","Furniture","Tables",2001.95,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"Central","Furniture","Chairs",173.76,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"Central","Furniture","Bookcases",137.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"West","Technology","Phones",26.90,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,7,"West","Technology","Copiers",784.25,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"West","Office Supplies","Paper",1879.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"South","Technology","Phones",3225.25,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"West","Furniture","Tables",483.86,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"South","Technology","Machines",3765.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"South","Technology","Accessories",1134.48,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"South","Office Supplies","Labels",1484.10,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"East","Technology","Accessories",15.11,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"East","Office Supplies","Labels",2843.89,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"East","Furniture","Tables",105.87,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"Central","Technology","Accessories",282.64,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"Central","Office Supplies","Binders",168.54,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"Central","Furniture","Furnishings",1254.55,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,8,"Central","Furniture","Chairs",101.43,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"Central","Furniture","Bookcases",954.24,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"West","Technology","Machines",3325.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"West","Office Supplies","Storage",2025.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"West","Office Supplies","Labels",2748.90,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"South","Office Supplies","Binders",1819.38,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"South","Furniture","Bookcases",1269.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"East","Technology","Copiers",3077.64,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"East","Furniture","Tables",998.34,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"East","Furniture","Furnishings",1617.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"East","Furniture","Chairs",3023.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"Central","Technology","Phones",3820.25,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,9,"Central","Technology","Copiers",2316.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"Central","Office Supplies","Labels",2154.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"Central","Furniture","Chairs",2172.66,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"East","Office Supplies","Binders",3002.37,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"East","Office Supplies","Paper",573.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"South","Furniture","Chairs",1827.72,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"South","Technology","Machines",3392.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"West","Office Supplies","Labels",2941.44,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"West","Office Supplies","Paper",2939.94,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"West","Technology","Machines",3411.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,10,"West","Technology","Phones",950.28,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,11,"East","Furniture","Furnishings",962.72,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,11,"Central","Furniture","Bookcases",134.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,11,"South","Office Supplies","Binders",3340.35,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,11,"South","Furniture","Chairs",3140.72,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,11,"Central","Furniture","Chairs",350.76,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"South","Furniture","Bookcases",1950.97,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"West","Technology","Copiers",397.91,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"West","Office Supplies","Binders",210.56,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"West","Furniture","Tables",830.85,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"West","Furniture","Furnishings",896.90,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"South","Technology","Machines",1099.14,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"South","Office Supplies","Paper",2404.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"South","Furniture","Chairs",62.29,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2023,153831.54,104,97,12,"East","Furniture","Chairs",166.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"South","Technology","Machines",2534.28,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"South","Office Supplies","Labels",1157.08,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"South","Furniture","Furnishings",1725.44,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"Central","Technology","Accessories",146.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"East","Technology","Accessories",3049.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"Central","Furniture","Furnishings",1472.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"Central","Office Supplies","Labels",349.62,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"East","Technology","Phones",303.68,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,1,"West","Furniture","Chairs",2785.12,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"South","Furniture","Furnishings",625.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"East","Furniture","Tables",1447.95,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"West","Office Supplies","Labels",1690.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"East","Furniture","Furnishings",522.33,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"East","Furniture","Chairs",1041.30,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"East","Furniture","Bookcases",159.78,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"Central","Office Supplies","Paper",875.32,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,2,"East","Office Supplies","Labels",4275.18,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"East","Technology","Copiers",975.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"Central","Technology","Accessories",384.93,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"East","Furniture","Bookcases",89.16,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"South","Office Supplies","Storage",1431.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"South","Technology","Machines",97.34,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"West","Office Supplies","Paper",109.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"West","Technology","Copiers",2735.67,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,3,"West","Technology","Machines",2137.25,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"West","Technology","Copiers",212.10,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"West","Technology","Phones",2799.79,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"East","Office Supplies","Storage",393.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"South","Furniture","Furnishings",927.30,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"South","Furniture","Tables",453.00,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"South","Office Supplies","Storage",730.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"West","Furniture","Bookcases",158.62,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,4,"West","Office Supplies","Binders",361.78,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"East","Office Supplies","Storage",390.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"West","Office Supplies","Binders",1087.32,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"South","Office Supplies","Paper",2097.28,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"West","Furniture","Furnishings",462.45,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"East","Furniture","Chairs",664.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"Central","Technology","Copiers",2863.08,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,5,"Central","Furniture","Tables",25.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"Central","Office Supplies","Binders",2443.98,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"West","Furniture","Furnishings",1404.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"West","Furniture","Chairs",490.23,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"West","Furniture","Bookcases",798.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"West","Furniture","Tables",264.72,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"South","Office Supplies","Labels",1340.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"South","Furniture","Chairs",1539.45,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"East","Technology","Phones",93.87,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,6,"Central","Technology","Phones",1160.46,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"South","Technology","Phones",2561.58,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"Central","Technology","Copiers",1405.55,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"East","Technology","Accessories",93.32,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"East","Technology","Machines",2902.18,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"South","Furniture","Chairs",385.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"South","Technology","Copiers",482.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"West","Furniture","Chairs",1069.14,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,7,"West","Technology","Phones",189.10,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,8,"West","Technology","Accessories",4214.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,8,"Central","Technology","Machines",1219.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,8,"East","Office Supplies","Labels",776.79,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,8,"South","Furniture","Chairs",1047.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,8,"South","Office Supplies","Storage",2015.23,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,9,"East","Furniture","Bookcases",1042.76,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,9,"East","Furniture","Furnishings",1199.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,9,"South","Office Supplies","Binders",4992.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,9,"South","Technology","Accessories",65.72,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"West","Office Supplies","Binders",923.12,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"West","Technology","Accessories",105.48,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"South","Technology","Accessories",500.04,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"Central","Office Supplies","Binders",422.73,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"South","Technology","Phones",2101.38,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"West","Furniture","Furnishings",356.09,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"South","Office Supplies","Paper",960.34,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"East","Furniture","Bookcases",1358.10,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"Central","Technology","Accessories",127.30,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,10,"Central","Office Supplies","Storage",888.48,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"West","Office Supplies","Storage",789.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"Central","Furniture","Furnishings",66.02,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"Central","Furniture","Tables",62.22,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"Central","Office Supplies","Labels",2205.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"Central","Office Supplies","Paper",587.70,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"Central","Office Supplies","Storage",1345.83,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"East","Technology","Copiers",391.76,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"West","Technology","Machines",1172.58,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,11,"West","Technology","Phones",196.56,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"West","Technology","Accessories",2909.98,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"West","Office Supplies","Paper",1279.71,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"West","Furniture","Chairs",4924.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"South","Technology","Phones",2258.34,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"South","Technology","Machines",508.28,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"South","Furniture","Bookcases",3837.44,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"East","Technology","Phones",1782.24,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"East","Technology","Accessories",2705.76,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"Central","Technology","Accessories",2495.97,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2022,118353.81,102,96,12,"Central","Furniture","Tables",140.99,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"Central","Office Supplies","Labels",3555.90,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"East","Furniture","Bookcases",2686.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"East","Furniture","Tables",212.08,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"East","Office Supplies","Paper",3314.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"East","Office Supplies","Storage",2506.86,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"East","Technology","Phones",3528.94,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"South","Furniture","Furnishings",3260.20,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"South","Technology","Accessories",395.84,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"West","Furniture","Bookcases",9723.25,4,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"West","Technology","Accessories",1177.23,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,1,"West","Technology","Copiers",1637.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,2,"Central","Office Supplies","Storage",342.03,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,2,"South","Furniture","Chairs",3683.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,2,"South","Technology","Copiers",337.18,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,2,"West","Furniture","Chairs",1245.84,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,2,"West","Office Supplies","Storage",3962.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"East","Office Supplies","Storage",2779.00,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"West","Technology","Accessories",4700.59,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"West","Office Supplies","Labels",850.98,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"South","Technology","Phones",1163.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"South","Furniture","Bookcases",692.37,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"East","Technology","Machines",141.39,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"East","Technology","Copiers",349.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,3,"East","Technology","Accessories",2169.45,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,4,"South","Furniture","Furnishings",1055.73,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,4,"Central","Furniture","Bookcases",2607.72,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,4,"Central","Furniture","Chairs",4734.30,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,4,"East","Office Supplies","Storage",222.25,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"East","Office Supplies","Binders",2567.44,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"Central","Office Supplies","Paper",4431.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"Central","Furniture","Chairs",2255.44,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"South","Office Supplies","Binders",1193.61,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"South","Furniture","Furnishings",527.44,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"South","Furniture","Bookcases",2335.98,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"East","Office Supplies","Paper",1545.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"West","Office Supplies","Paper",3406.00,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,5,"South","Office Supplies","Labels",403.29,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,6,"Central","Technology","Accessories",360.60,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,6,"Central","Office Supplies","Binders",702.36,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,6,"Central","Furniture","Tables",174.79,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,6,"Central","Furniture","Chairs",166.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,6,"South","Office Supplies","Labels",873.03,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,6,"East","Technology","Machines",657.75,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"Central","Furniture","Furnishings",252.49,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"West","Technology","Machines",228.50,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"South","Technology","Machines",3568.14,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"South","Technology","Phones",2735.39,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"South","Furniture","Tables",813.35,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"East","Technology","Accessories",342.46,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"Central","Technology","Phones",2284.29,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"Central","Technology","Copiers",586.86,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,7,"Central","Office Supplies","Labels",207.92,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"South","Furniture","Bookcases",435.94,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"West","Furniture","Furnishings",1327.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"South","Technology","Copiers",4788.40,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"South","Office Supplies","Labels",460.71,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"East","Technology","Machines",2045.75,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"Central","Technology","Machines",463.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,8,"Central","Furniture","Bookcases",256.80,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,9,"West","Furniture","Bookcases",247.29,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,9,"Central","Technology","Copiers",173.12,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,9,"Central","Technology","Phones",2402.43,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,9,"East","Furniture","Furnishings",1848.72,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,9,"West","Furniture","Tables",756.81,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"West","Furniture","Chairs",137.91,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"South","Furniture","Furnishings",442.54,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"East","Technology","Machines",1082.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"Central","Technology","Accessories",306.32,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"Central","Office Supplies","Labels",830.70,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"Central","Furniture","Bookcases",1310.82,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"West","Furniture","Furnishings",343.22,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"West","Office Supplies","Binders",690.48,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"West","Technology","Accessories",668.64,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,10,"West","Technology","Copiers",1808.35,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,11,"Central","Furniture","Bookcases",1792.53,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,11,"East","Furniture","Bookcases",2824.11,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,11,"South","Technology","Phones",1405.74,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,11,"West","Office Supplies","Paper",3437.42,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,11,"West","Office Supplies","Storage",363.91,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"Central","Furniture","Furnishings",2753.96,2,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"Central","Technology","Machines",1058.25,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"East","Technology","Machines",1338.88,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"South","Furniture","Chairs",341.52,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"South","Technology","Accessories",2616.56,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"West","Technology","Machines",214.66,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
+2021,138108.81,94,92,12,"Central","Office Supplies","Binders",1474.34,1,"Keyboard",18283.05,"Shipping Labels",17334.49,"Customer 63",14132.34,"Customer 106",10136.53
